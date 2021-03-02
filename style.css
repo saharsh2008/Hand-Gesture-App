@@ -1,0 +1,39 @@
+body
+{
+  color: white;
+  background: chocolate;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#resultSymbolName
+{
+  color: black;
+}
+.symbolName
+{
+  font-size: 40px;
+}
+.symbol
+{
+  font-size:48px;
+}
+.heading {
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+label {
+  font-size: 14px;
+  color: white;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: palevioletred;
+}
